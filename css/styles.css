@@ -1,5 +1,5 @@
 body{
-	margin: 0;
+	margin: 5px;
 	text-align: center;
 	font-family: 'Merriweather',serif;
 	
@@ -27,20 +27,25 @@ color: #11999E
 	padding: 100px;
 
 	}
+
 .middle-container{
  }
+
  .bottom-container{
 	background-color: #66bfbf;
 	padding: 50px 0 20px;
 }
+
 .pro{
 	text-decoration: underline;
 }
+
 .bottom-cloud{
 	position: absolute;
 	left: 300px;
 	bottom: 400px;
 }
+
 .top-cloud{
 	position: absolute;
 	right: 300px;
@@ -64,7 +69,7 @@ a:hover{
 }
 .head{
 	font-family: Sacramento;
-	font-size: 45px;
+	font-size: 44px;
 	font-weight: normal;
 	line-height: 2;
 }
